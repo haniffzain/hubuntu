@@ -1,34 +1,19 @@
-# Hubuntu
+# Project moved to ZORX OS
 
-Hubuntu ialah projek sistem operasi desktop berasaskan Ubuntu yang memberi fokus kepada pengalaman desktop yang lebih tersusun, pantas, selamat dan mudah dipulihkan.
+This repository is retained only as a historical redirect.
 
-Repository ini ialah **wajah awam projek Hubuntu**. Ia mengandungi dokumentasi, roadmap, sasaran pembangunan, status kemajuan dan nota keluaran. Source code pembangunan sebenar dikendalikan secara berasingan dalam repository private.
+Active development, product identity, documentation and future releases have moved to
+**ZORX OS**:
 
-## Arah utama Hubuntu
+https://github.com/haniffzain/Zorx
 
-Hubuntu dibangunkan di atas enam teras utama:
+Current platform direction:
 
-- **Experience** — menu, folder drawer, login experience dan animasi desktop.
-- **Performance** — fast boot, fast desktop loading dan optimasi mengikut hardware.
-- **Update** — update layer Hubuntu, safe update dan rollback.
-- **Security** — Hubuntu Sentinel, smart firewall, DNS guard dan network behaviour monitoring.
-- **Recovery** — Panic Lock, standard restore, selective restore dan snapshot.
-- **Hardware Intelligence** — hardware detection, performance profile dan driver health.
+- Ubuntu-derived Linux base
+- ZORX Downbar
+- ZORX DroidLayer
+- ZORX Sentinel
+- ZORX Tor Route
 
-## Status projek
-
-Hubuntu masih dalam pembangunan aktif. Sasaran yang telah selesai dan diuji akan ditandakan dalam [`HUBUNTU_TARGETS.md`](HUBUNTU_TARGETS.md).
-
-Lihat juga [`ROADMAP.md`](ROADMAP.md) untuk gambaran arah pembangunan.
-
-## Repository structure
-
-Repository public ini **tidak mengandungi source code development private**. Tujuannya ialah untuk berkongsi hala tuju, status dan perkembangan Hubuntu secara terbuka tanpa mendedahkan implementation yang belum diterbitkan.
-
-## Base system
-
-Ubuntu kekal sebagai upstream/base utama untuk kernel, security updates, drivers dan komponen sistem asas. Hubuntu menambah lapisan pengalaman, prestasi, security, update dan recovery di atas asas tersebut.
-
----
-
-**Hubuntu — Ubuntu, refined for a more resilient desktop experience.**
+No new operating-system identity or product development should be published from this
+legacy repository.
